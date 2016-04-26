@@ -1,0 +1,27 @@
+{
+  "name": "api1",
+  "version": "0.0.1",
+  "description": "Third FCC api project, URL Shortener",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "acifuentes99",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinga99/FCC_API_3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dinga99/FCC_API_3/issues"
+  },
+  "homepage": "https://github.com/dinga99/FCC_API_3#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.12",
+    "multer": "^1.1.0",
+    "request": "^2.72.0"
+  }
+}
